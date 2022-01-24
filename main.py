@@ -1,15 +1,9 @@
 # using D3vd/Meme_Api put it as json file
-import json 
 import requests
 import os 
-import sys
 import time
-import random
-import re
 import urllib.request
 import urllib.parse
-import shutil
-import webbrowser as wb
 
 
 def loop():
